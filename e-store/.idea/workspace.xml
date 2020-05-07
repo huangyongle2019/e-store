@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="613b9f2b-ba99-489a-8753-6f96b241bcb8" name="Default Changelist" comment="基础版本提交">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_boot_starter_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_spring_boot_web_starter_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e-store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/EStoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/controller/EStoreAdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/controller/EStoreAdminRoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/controller/EStorePermissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/controller/EStoreRoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/controller/EStoreRolePermissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/entity/EStoreAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/entity/EStoreAdminRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/entity/EStorePermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/entity/EStoreRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/entity/EStoreRolePermission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/mapper/EStoreAdminMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/mapper/EStoreAdminRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/mapper/EStorePermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/mapper/EStoreRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/mapper/EStoreRolePermissionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/IEStoreAdminRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/IEStoreAdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/IEStorePermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/IEStoreRolePermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/IEStoreRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/impl/EStoreAdminRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/impl/EStoreAdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/impl/EStorePermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/impl/EStoreRolePermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/samuel/estore/admin/service/impl/EStoreRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-plus/EStoreAdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-plus/EStoreAdminRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-plus/EStorePermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-plus/EStoreRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-plus/EStoreRolePermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/samuel/estore/EStoreApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/e-store.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/EStoreApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/controller/EStoreAdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/controller/EStoreAdminRoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/controller/EStoreAuthController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/controller/EStorePermissionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/controller/EStoreRoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/controller/EStoreRolePermissionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/entity/EStoreAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/entity/EStoreAdminRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/entity/EStorePermission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/entity/EStoreRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/entity/EStoreRolePermission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/mapper/EStoreAdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/mapper/EStoreAdminRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/mapper/EStorePermissionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/mapper/EStoreRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/mapper/EStoreRolePermissionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/IEStoreAdminRoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/IEStoreAdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/IEStorePermissionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/IEStoreRolePermissionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/IEStoreRoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/impl/EStoreAdminRoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/impl/EStoreAdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/impl/EStorePermissionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/impl/EStoreRolePermissionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/service/impl/EStoreRoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/vo/LoginVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/admin/vo/PermVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/annotation/RequiresPermissionsDesc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/CodeGenerator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/CodeGenerator$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/IpUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/JacksonUtil$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/JacksonUtil$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/JacksonUtil$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/JacksonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/Md5Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/Permission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/PermissionUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/ResponseCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/common/utils/ResponseUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/config/ShiroConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/config/ShiroExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/config/Swagger2Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/shiro/ShiroRealm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/me/samuel/estore/shiro/WebSessionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-plus/EStoreAdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-plus/EStoreAdminRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-plus/EStorePermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-plus/EStoreRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-plus/EStoreRolePermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/me/samuel/estore/EStoreApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mavenRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bXEJzSbCj0P6ptkcvGiCjQVz24" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/me/samuel/estore/common/utils" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.samuel.estore.common.utils" />
+      <recent name="me.samuel.estore.admin.vo" />
+      <recent name="me.samuel.estore.config" />
+      <recent name="me.samuel.estore.annotation" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitProjects\e-store\src\main\java\me\samuel\estore\common\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EStoreApplication">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.samuel.estore.common.utils.CodeGenerator" />
+      <module name="e-store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.samuel.estore.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="e-store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.samuel.estore.EStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="613b9f2b-ba99-489a-8753-6f96b241bcb8" name="Default Changelist" comment="" />
+      <created>1588769969605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588769969605</updated>
+      <workItem from="1588769976025" duration="4802000" />
+      <workItem from="1588858000401" duration="3509000" />
+    </task>
+    <task id="LOCAL-00001" summary="基础版本提交">
+      <created>1588861391848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588861391848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基础版本提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="基础版本提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1588859620338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1588859620338" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1588861400268">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588861400268" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1588770174540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588770174540" />
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1588860998328">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588860998328" />
+    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1588860998328">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588860998328" />
+    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1588860998328">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588860998328" />
+    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1588860998328">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588860998328" />
+    <state width="1237" height="196" key="GridCell.Tab.1.bottom" timestamp="1588860998153">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588860998153" />
+    <state width="1237" height="196" key="GridCell.Tab.1.center" timestamp="1588860998153">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588860998153" />
+    <state width="1237" height="196" key="GridCell.Tab.1.left" timestamp="1588860998153">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588860998153" />
+    <state width="1237" height="196" key="GridCell.Tab.1.right" timestamp="1588860998153">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588860998153" />
+    <state width="1237" height="196" key="GridCell.Tab.2.bottom" timestamp="1588860998154">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588860998154" />
+    <state width="1237" height="196" key="GridCell.Tab.2.center" timestamp="1588860998153">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1588860998153" />
+    <state width="1237" height="196" key="GridCell.Tab.2.left" timestamp="1588860998153">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1588860998153" />
+    <state width="1237" height="196" key="GridCell.Tab.2.right" timestamp="1588860998154">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1588860998154" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1588860540071">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1588860540071" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1588770177895">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588770177895" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1588861411337">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1588861411337" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+server:
+  port: 8001
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://huangyl.cn:3306/e-store?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+    username: root
+    password: root
